@@ -21,9 +21,11 @@
   
 ### 用例图的基本符号与元素？
   * 参与者：表示与您的应用程序或系统进行交互的用户、组织或外部系统。用一个小人表示。
-  ![参与者](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=7133d0f536d3d539c13d08c50286e927/8c1001e93901213f00d7bed754e736d12e2e95d1.jpg)
+  ![参与者](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/%E7%94%A8%E6%88%B7.png)
+  
   * 用例(Use Case): 用例就是外部可见的系统功能，对系统提供的服务进行描述。 用椭圆表示
-  ![用例](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=0b471c08c895d143da76e3254bf18296/f9198618367adab4030deb488bd4b31c8601e4d8.jpg)
+  ![用例](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/%E7%94%A8%E4%BE%8B.png)
+  
   * 关联关系（Association）： 表示的是参与者与用例之间的关系。
   
   ![](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/%E5%85%B3%E8%81%94.png)
