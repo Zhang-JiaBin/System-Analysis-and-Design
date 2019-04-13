@@ -21,7 +21,7 @@
   
 ### 用例图的基本符号与元素？
   * 参与者：表示与您的应用程序或系统进行交互的用户、组织或外部系统。用一个小人表示。
-  ![参与者](https://baike.baidu.com/pic/%E7%94%A8%E4%BE%8B%E5%9B%BE/9531932/0/ae10edde0c56496f95ee3732?fr=lemma&ct=single#aid=0&pic=ae10edde0c56496f95ee3732)
+  ![参与者](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=7133d0f536d3d539c13d08c50286e927/8c1001e93901213f00d7bed754e736d12e2e95d1.jpg)
   * 用例(Use Case): 用例就是外部可见的系统功能，对系统提供的服务进行描述。 用椭圆表示
   * 关联关系（Association）： 表示的是参与者与用例之间的关系。
   * 包含关系（Include）： 表示用例可以简单地包含其他用例所具有的行为，并把它所包含的用例行为作为自身行为的一部分。
