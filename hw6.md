@@ -29,13 +29,13 @@
   ![](https://img-blog.csdn.net/20150121160328183?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHMxNjQ1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
   * 包含关系（Include）： 表示用例可以简单地包含其他用例所具有的行为，并把它所包含的用例行为作为自身行为的一部分。
   
-  ![](https://img-blog.csdnimg.cn/20190410155711387.png)
+  ![](https://img-blog.csdn.net/20150121160405545?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHMxNjQ1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
   * 扩展/延伸关系（Extend）： 表示在一定条件下，把新的行为加入到已有的用例中，获得的新用例叫做扩展用例，原有的用例叫做基础用例，相当于为基础用例提供一个附加功能。
   
-  ![](https://img-blog.csdnimg.cn/20190410155843446.png)
+  ![](https://img-blog.csdn.net/20150121160409601?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHMxNjQ1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
   * 泛化关系（Generalization）： 泛化指的是一个父用例可以被特定化形成多个子用例，而父用例和子用例之间的关系就是泛化关系。
   
-  ![](https://img-blog.csdnimg.cn/20190410155746128.png)
+  ![](https://img-blog.csdn.net/20150121160337590?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHMxNjQ1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
   
 ### 用例图的画法与步骤
  * 确定参与者，包括:
