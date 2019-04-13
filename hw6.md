@@ -26,7 +26,7 @@
   ![用例](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=0b471c08c895d143da76e3254bf18296/f9198618367adab4030deb488bd4b31c8601e4d8.jpg)
   * 关联关系（Association）： 表示的是参与者与用例之间的关系。
   
-  ![](https://img-blog.csdnimg.cn/20190410155816568.png)
+  ![](https://img-blog.csdn.net/20150121160328183?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbHMxNjQ1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
   * 包含关系（Include）： 表示用例可以简单地包含其他用例所具有的行为，并把它所包含的用例行为作为自身行为的一部分。
   
   ![](https://img-blog.csdnimg.cn/20190410155711387.png)
