@@ -65,7 +65,12 @@
       * 粒度达到子用例级别，并用 include 和 exclude 关联它们
       * 请用色彩标注出你认为创新（区别于竞争对手的）用例或子用例
       * 尽可能识别外部系统和服务
-      
+        * 酒店预订
+        ![](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2.png)
+        
+        * 订电影票
+        ![](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/%E7%94%B5%E5%BD%B1.png)
+        
       
       
       
