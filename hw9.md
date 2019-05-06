@@ -10,11 +10,11 @@
       * 属性要注意计算字段
   * Make Reservation 
   
-   ![Make Reservation]()
+   ![Make Reservation](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/hw9_reservation.png)
    
   * payment
   
-   ![payment]()
+   ![payment](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/hw9_payment.png)
    
   * 数据建模：
 
