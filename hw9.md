@@ -15,7 +15,20 @@
   * payment
   
    ![payment](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/payment.png)
-  
+   
+  * 数据建模：
+
+    * Hotel (ID/Key, LocationID/FKey, Name, Address, isFavourites, isLowestPrice, isHigestStarRating, isAlphabetical)
+    * Location (ID/Key, Name, Type)
+    * Traveler (ID/Key, Name, Email)
+    * Reservation (ID/Key, TravelerID/FKey, Date, Time)
+    * ReservationItem (ID/Key, ReservationID/FKey, HotelID/FKey, CheckInDate, CheckOutDate, NightsNum, AdultsNum, ChildrenNum, ChildrenAge)
+    * Room (ID/Key, HotelID/FKey, Number, Type, Status, Price)
+    * Payment (ID/Key, ReservationID/FKey, TotalCost)
+    * PaymentItem (ID/Key, PaymentID/FKey, TotalCost, BookingDetails)
+    * CreditCard (ID/Key, CardholderID/FKey, Type, CardNumber, SecurityCode, ExpiryDate)
+    * Cardholder (ID/Key, FirstName, LastName, State, Counrty, City, Address, Postcode, DaytimeTelephone, EveningTelephone)
+
 ### 2、使用 UML State Model，对每个订单对象生命周期建模
   * 建模对象： 参考 Asg_RH 文档， 对 Reservation/Order 对象建模。
   * 建模要求： 参考练习不能提供足够信息帮助你对订单对象建模，请参考现在 定旅馆 的旅游网站，尽可能分析围绕订单发生的各种情况，直到订单通过销售事件（柜台销售）结束订单。
