@@ -9,9 +9,16 @@
       * 关联必须有多重性、部分有名称与导航方向 
       * 属性要注意计算字段
   * Make Reservation 
-   ![参与者](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/%E7%94%A8%E6%88%B7.png)
+  
+   ![Make Reservation](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/Reservation.png)
+   
+  * payment
+  
+   ![payment](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/payment.png)
   
 ### 2、使用 UML State Model，对每个订单对象生命周期建模
   * 建模对象： 参考 Asg_RH 文档， 对 Reservation/Order 对象建模。
   * 建模要求： 参考练习不能提供足够信息帮助你对订单对象建模，请参考现在 定旅馆 的旅游网站，尽可能分析围绕订单发生的各种情况，直到订单通过销售事件（柜台销售）结束订单。
+  
+  ![建模](https://raw.githubusercontent.com/Zhang-JiaBin/System-Analysis-and-Design/master/image/%E5%BB%BA%E6%A8%A1.png)
    
