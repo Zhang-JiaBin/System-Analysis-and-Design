@@ -6,5 +6,5 @@
 ## [homework6](https://zhang-jiabin.github.io/System-Analysis-and-Design/hw6)
 ## [homework7](https://zhang-jiabin.github.io/System-Analysis-and-Design/hw7)
 ## [homework9](https://zhang-jiabin.github.io/System-Analysis-and-Design/hw9)
-## [homework9](https://zhang-jiabin.github.io/System-Analysis-and-Design/16340287-zhangjb)
+
 
